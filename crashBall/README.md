@@ -1,3 +1,5 @@
 ## Crash Ball
 
-<img width="80%" src="https://user-images.githubusercontent.com/54584063/130809075-fcc4f3a4-4546-4ef3-a4a9-a6197ce41f9d.mov">
+<br/>
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/54584063/130810501-e4c2e478-5449-4d40-ad73-a9cb10a61b14.gif)
